@@ -324,6 +324,12 @@ Included documentation:
 
 ---
 
+### State Machine Documentation
+
+The complete machine sequence and state transition documentation is available in:
+
+- `docs/State_Machine.md`
+
 # Learning Outcomes
 
 This project demonstrates how industrial PLC software can be structured using modular function blocks, reusable software architecture, manufacturing analytics, and supervisory communication concepts.
