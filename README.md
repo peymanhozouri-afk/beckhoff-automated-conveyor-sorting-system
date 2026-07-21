@@ -310,18 +310,15 @@ SCADA / MES / Historian
 
 ---
 
-# Documentation
+## Documentation
 
-Additional project documentation is available in the `/docs` directory.
-
-Included documentation:
-
-- Functional Specification
-- I/O List
-- EtherCAT Architecture
-- System Architecture
-- Test Plan
-
+- [Functional Specification](docs/Functional_Specification.md)
+- [Software Architecture](docs/System_Architecture.md)
+- [State Machine Documentation](docs/State_Machine.md)
+- [Function Block Documentation](docs/Function_Blocks.md)
+- [I/O List](docs/IO_List.md)
+- [EtherCAT Architecture](docs/EtherCAT_Architecture.md)
+- [Validation Test Plan](docs/Test_Plan.md)
 ---
 
 ### State Machine Documentation
