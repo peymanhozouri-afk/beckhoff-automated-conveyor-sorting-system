@@ -26,6 +26,24 @@ The project was developed as a professional PLC portfolio to demonstrate industr
 
 ---
 
+## Screenshots
+
+### Main Operator Interface
+
+![MainVisu](screenshots/final/02_MainVisu.png)
+
+### Motion Control
+
+![MotionVisu](screenshots/final/03_MotionVisu.png)
+
+### Manufacturing Analytics
+
+![AnalyticsVisu](screenshots/final/04_AnalyticsVisu.png)
+
+### SCADA Dashboard
+
+![SCADAVisu](screenshots/final/05_SCADAVisu.png)
+
 # Technologies
 
 - Beckhoff TwinCAT 3
