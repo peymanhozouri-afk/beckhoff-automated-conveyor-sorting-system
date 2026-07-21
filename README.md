@@ -140,6 +140,30 @@ Automated_Conveyor_Sorting_System
 ├── VISION
 └── ANALYTICS
 ```
+## Software Architecture
+
+The project follows a layered industrial PLC software architecture.
+
+```
+Operator
+    │
+    ▼
+MainVisu / MotionVisu / AnalyticsVisu / SCADAVisu
+    │
+    ▼
+GVL / GVL_IO / GVL_SCADA
+    │
+    ▼
+MAIN Program
+    │
+    ▼
+Function Blocks
+    │
+    ▼
+Simulated Machine
+```
+
+See `docs/System_Architecture.md` for the complete architecture documentation.
 
 ---
 
