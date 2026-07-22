@@ -318,7 +318,8 @@ SCADA / MES / Historian
 - [Function Block Documentation](docs/Function_Blocks.md)
 - [I/O List](docs/IO_List.md)
 - [EtherCAT Architecture](docs/EtherCAT_Architecture.md)
-- [Validation Test Plan](docs/Test_Plan.md)
+- [Original Test Plan](docs/Test_Plan.md)
+- [Commissioning and Validation Test Report](docs/Commissioning_Test_Report.md)
 ---
 
 ### State Machine Documentation
