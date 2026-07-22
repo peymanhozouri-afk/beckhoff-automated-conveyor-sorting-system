@@ -372,6 +372,25 @@ The implementation follows engineering practices commonly used in industrial aut
 - Expanded the project beyond machine control to include motion simulation, manufacturing analytics, and SCADA-ready data publishing.
 - Created professional documentation covering architecture, Function Blocks, I/O, EtherCAT concepts, testing, and system limitations.
 
+## Portfolio Use
+
+This project was created as an industrial automation and controls-engineering portfolio project.
+
+It demonstrates:
+
+- PLC software architecture
+- Structured Text programming
+- Modular Function Block design
+- Machine-state sequencing
+- Equipment and fault control
+- HMI development
+- Motion-control concepts
+- Manufacturing analytics
+- SCADA-ready data publishing
+- Commissioning documentation
+
+The system was developed and validated in the TwinCAT simulation environment without physical industrial hardware.
+
 # Future Improvements
 
 Potential future enhancements include:
