@@ -361,6 +361,17 @@ The implementation follows engineering practices commonly used in industrial aut
 
 ---
 
+## Engineering Accomplishments
+
+- Converted a basic conveyor sequence into a modular PLC software architecture.
+- Separated equipment control, sequencing, diagnostics, analytics, motion, and supervisory data into defined software components.
+- Implemented deterministic state-based machine operation rather than relying on unstructured conditional logic.
+- Designed fault handling that stops equipment, identifies the fault source, and requires correction before recovery.
+- Prevented duplicate production counts by using one-scan event pulses and rising-edge detection.
+- Added conveyor acceleration and deceleration behavior instead of instantaneous speed changes.
+- Expanded the project beyond machine control to include motion simulation, manufacturing analytics, and SCADA-ready data publishing.
+- Created professional documentation covering architecture, Function Blocks, I/O, EtherCAT concepts, testing, and system limitations.
+
 # Future Improvements
 
 Potential future enhancements include:
