@@ -26,6 +26,31 @@ The project was developed as a professional PLC portfolio to demonstrate industr
 
 ---
 
+## Skills Demonstrated
+
+- Beckhoff TwinCAT 3
+- IEC 61131-3 Structured Text
+- PLC programming
+- Finite-state machines
+- Modular Function Blocks
+- Industrial automation
+- Conveyor control
+- Sensor and actuator sequencing
+- Timer and edge-detection logic
+- Fault detection and diagnostics
+- Alarm management
+- HMI and PLC visualization
+- Motion-control concepts
+- Servo homing and positioning
+- Manufacturing analytics
+- OEE calculation
+- SCADA architecture
+- ADS and OPC UA concepts
+- EtherCAT I/O architecture
+- Software commissioning
+- Validation testing
+- Technical documentation
+
 ## Screenshots
 
 ### Main Operator Interface
